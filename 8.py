@@ -3,5 +3,5 @@ class complex:
         self.real=real
         self.imag=imag
 
-    def add(self,other)
-        real_part=
+    def add(self,other):
+        real_part=self.real+other.real
